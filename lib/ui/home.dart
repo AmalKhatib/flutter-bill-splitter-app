@@ -8,11 +8,13 @@ class BillSplitter extends StatefulWidget {
 
 class _BillSplitterState extends State<BillSplitter> {
 
+  //variables reion
   double
       _billAmount = 0;
   int _personCounter = 1, _tipPercentage = 0;
   Color _purple = HexColor("#6908D6");
-
+  //end variables region
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
