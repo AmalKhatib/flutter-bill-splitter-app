@@ -1,3 +1,3 @@
-Bill splitter app
+# Bill splitter app
 
-![Image description] (https://github.com/AmalKhatib/flutter-bill-splitter-app/blob/master/screenshot.PNG)
+![app screenshot](https://github.com/AmalKhatib/flutter-bill-splitter-app/blob/master/screenshot.PNG)
